@@ -1,6 +1,6 @@
 from random import *  # 랜덤 모드 갖고오기
-vocabulary = ["castle", "wrong", "sand", "chat",
-              "brain", "target", "import"]  # 배열에 영단어 추가
+vocabulary = ["cheap", "guide", "length", "progress",
+              "range", "package", "monster", "screen"]  # 배열에 영단어 추가
 words = choice(vocabulary)  # 단어 1개 랜덤으로 돌림
 write = ""  # 사용자가 입력한 영단어 저장
 
